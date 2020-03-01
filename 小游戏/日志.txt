@@ -1,0 +1,7 @@
+		char str[100];
+		sprintf(str, "123123");
+		MessageBox(hwnd, str, "result", MB_OK);	
+
+//加入了战斗
+
+//加入了enemyplane
